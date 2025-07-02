@@ -102,11 +102,11 @@ We evaluate our pipeline on various RAW datasets.
 
 
 <p align="center">
-  <img src="figs/735-ram.png" width="220" height="140"/>
-  <img src="figs/ram-002819.png" width="220" height="140"/>
-  <img src="figs/ram.png" width="220" height="140"/>
-  <img src="figs/ram-night-10144.png" width="220" height="140"/>
-  <img src="figs/night-16524-ram.png" width="220" height="140"/>
+  <img src="figs/735-ram.png" width="210" height="140"/>
+  <img src="figs/ram-002819.png" width="210" height="140"/>
+  <img src="figs/ram.png" width="210" height="140"/>
+  <img src="figs/ram-night-10144.png" width="210" height="140"/>
+  <img src="figs/night-16524-ram.png" width="210" height="140"/>
 </p>
 
 ## 🛠️ Getting Started
