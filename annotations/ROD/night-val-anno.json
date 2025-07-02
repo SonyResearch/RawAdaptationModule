@@ -1,0 +1,114 @@
+{
+  "images": [
+    {
+      "file_name": "/home/shani/data/ROD_sample/images/night-04674.npy",
+      "height": 928,
+      "width": 1440,
+      "id": "night-04674"
+    }
+  ],
+  "annotations": [
+    {
+      "area": 155136,
+      "iscrowd": 0,
+      "image_id": "night-04674",
+      "bbox": [
+        1024,
+        271,
+        404,
+        384
+      ],
+      "category_id": 0,
+      "id": 14,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 17024,
+      "iscrowd": 0,
+      "image_id": "night-04674",
+      "bbox": [
+        995,
+        459,
+        128,
+        133
+      ],
+      "category_id": 2,
+      "id": 15,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 2448,
+      "iscrowd": 0,
+      "image_id": "night-04674",
+      "bbox": [
+        922,
+        513,
+        51,
+        48
+      ],
+      "category_id": 0,
+      "id": 16,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 54876,
+      "iscrowd": 0,
+      "image_id": "night-04674",
+      "bbox": [
+        333,
+        380,
+        269,
+        204
+      ],
+      "category_id": 2,
+      "id": 17,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 29068,
+      "iscrowd": 0,
+      "image_id": "night-04674",
+      "bbox": [
+        70,
+        448,
+        172,
+        169
+      ],
+      "category_id": 3,
+      "id": 18,
+      "ignore": 0,
+      "segmentation": []
+    }
+  ],
+  "categories": [
+    {
+      "supercategory": "none",
+      "id": 0,
+      "name": "Tram"
+    },
+    {
+      "supercategory": "none",
+      "id": 1,
+      "name": "Car"
+    },
+    {
+      "supercategory": "none",
+      "id": 2,
+      "name": "Truck"
+    },
+    {
+      "supercategory": "none",
+      "id": 3,
+      "name": "Cyclist"
+    },
+    {
+      "supercategory": "none",
+      "id": 4,
+      "name": "Pedestrian"
+    }
+  ]
+}

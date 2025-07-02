@@ -1,0 +1,129 @@
+{
+  "images": [
+    {
+      "file_name": "/home/shani/data/ROD_sample/images/day-04675.npy",
+      "height": 928,
+      "width": 1440,
+      "id": "day-04675"
+    }
+  ],
+  "annotations": [
+    {
+      "area": 111838,
+      "iscrowd": 0,
+      "image_id": "day-04675",
+      "bbox": [
+        838,
+        333,
+        398,
+        281
+      ],
+      "category_id": 0,
+      "id": 8,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 16328,
+      "iscrowd": 0,
+      "image_id": "day-04675",
+      "bbox": [
+        583,
+        462,
+        157,
+        104
+      ],
+      "category_id": 2,
+      "id": 9,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 8775,
+      "iscrowd": 0,
+      "image_id": "day-04675",
+      "bbox": [
+        483,
+        476,
+        65,
+        135
+      ],
+      "category_id": 3,
+      "id": 10,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 4056,
+      "iscrowd": 0,
+      "image_id": "day-04675",
+      "bbox": [
+        261,
+        508,
+        78,
+        52
+      ],
+      "category_id": 0,
+      "id": 11,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 880,
+      "iscrowd": 0,
+      "image_id": "day-04675",
+      "bbox": [
+        286,
+        521,
+        20,
+        44
+      ],
+      "category_id": 3,
+      "id": 12,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 10602,
+      "iscrowd": 0,
+      "image_id": "day-04675",
+      "bbox": [
+        172,
+        452,
+        93,
+        114
+      ],
+      "category_id": 2,
+      "id": 13,
+      "ignore": 0,
+      "segmentation": []
+    }
+  ],
+  "categories": [
+    {
+      "supercategory": "none",
+      "id": 0,
+      "name": "Tram"
+    },
+    {
+      "supercategory": "none",
+      "id": 1,
+      "name": "Car"
+    },
+    {
+      "supercategory": "none",
+      "id": 2,
+      "name": "Truck"
+    },
+    {
+      "supercategory": "none",
+      "id": 3,
+      "name": "Cyclist"
+    },
+    {
+      "supercategory": "none",
+      "id": 4,
+      "name": "Pedestrian"
+    }
+  ]
+}
