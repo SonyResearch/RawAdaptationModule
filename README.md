@@ -95,11 +95,19 @@ We evaluate our pipeline on various RAW datasets.
 
 **ROD - Day & Night** (24-bit)
 
-| Model                                                                      | Resolution | Epoch | DAY/mAP | DAY/mAP50 | NIGHT/mAP | NIGHT/mAP50 | Download                                                                                       |
-|----------------------------------------------------------------------------|------------|-------|---------|-----------|-----------|-------------|------------------------------------------------------------------------------------------------|
-| [Faster R-CNN R50](configs%2Ffaster-rcnn%2Ffaster-rcnn-r50-fpn-rod-ram.py) | 620x400    | 80    | 33.1    | 57.1      | 46.8      | 70.6        | [model](https://drive.google.com/file/d/1upeMABGva0tjpfaDi_0NZDJbR0dlbugw/view?usp=drive_link) |
-| [YOLOX-T](configs%2Fyolox-t%2Fyolox-t-rod-ram.py)                          | 620x400    | 290   | 30.8    | 46.3      | 52.9      | 78.3        | [model](https://drive.google.com/file/d/1k13xKsh8Mc9LX2LHdsSokhQk9X5xhnPt/view?usp=drive_link) |
+| Model                                                                           | Resolution | Epoch | DAY/mAP | DAY/mAP50 | NIGHT/mAP | NIGHT/mAP50 | Download                                                                                       |
+|---------------------------------------------------------------------------------|------------|-------|---------|-----------|-----------|-------------|------------------------------------------------------------------------------------------------|
+| [Faster R-CNN R50](configs%2Ffaster-rcnn%2Ffaster-rcnn-r50-fpn-rod-ram.py)      | 620x400    | 80    | 33.1    | 57.1      | 46.8      | 70.6        | [model](https://drive.google.com/file/d/1upeMABGva0tjpfaDi_0NZDJbR0dlbugw/view?usp=drive_link) |
+| [YOLOX-T](configs%2Fyolox-t%2Fyolox-t-rod-ram.py)                               | 620x400    | 290   | 30.8    | 46.3      | 52.9      | 78.3        | [model](https://drive.google.com/file/d/1k13xKsh8Mc9LX2LHdsSokhQk9X5xhnPt/view?usp=drive_link) |
 
+
+<p align="center">
+  <img src="figs/735-ram.png" width="200" height="130"/>
+  <img src="figs/ram-002819.png" width="200" height="130"/>
+  <img src="figs/ram.png" width="200" height="130"/>
+  <img src="figs/ram-night-10144.png" width="200" height="130"/>
+  <img src="figs/night-16524-ram.png" width="200" height="130"/>
+</p>
 
 ## 🛠️ Getting Started
 
